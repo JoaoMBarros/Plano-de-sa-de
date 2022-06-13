@@ -1,7 +1,3 @@
-/*Aluno: João Pedro Monteiro da Silva Barros
-Primeira avaliação de POO
- */
-
 package prova2.gabarito.plano;
 
 import java.util.Calendar;
